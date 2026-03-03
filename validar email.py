@@ -29,8 +29,7 @@ while not valido:
       print("ha de tener un punto")
      else:
       print("Correo valido")
-    
-    correoValido == True
+      correoValido == True
 
     contraseña = input("ingrese contraseña")
     

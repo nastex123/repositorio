@@ -1,0 +1,9 @@
+-el codigo ha de ingresar n cantidad de estudiantes que el usuario digite.
+-en ello se ha de digitar, su nombre y las 3 notas de cada estudiante.
+-al final, ha de calcular el promedio individual de cada uno.
+-ha de decir cuantos ganaron y cuantos perdieron. 
+-y mostrar un promedio general
+
+
+
+###range(1,10,3) #rango del 1 al 10 de 3 en tres###

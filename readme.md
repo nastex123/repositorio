@@ -1,6 +1,6 @@
 # Sistema de Inventario Básico
 
-Este proyecto implementa un programa en Python que permite registrar productos con su nombre, precio y cantidad. El sistema valida las entradas, calcula el costo total y muestra los resultados en consola de manera clara y estructurada.
+Este proyecto fue hecho por Brandon Carranza y Juan muñoz, e implementamos un programa en Python que permite registrar productos con su nombre, precio y cantidad. El sistema valida las entradas, calcula el costo total y muestra los resultados en consola de manera clara y estructurada.
 
 ## Características principales
 
@@ -51,7 +51,6 @@ repositorio/
 ├── README.md       # Documentación del proyecto
 ```
 
-## Créditos
+## Repositorio directo
 
-Este proyecto fue desarrollado con la ayuda de **nombre de la persona**.  
 Repositorio en GitHub: [Historia-de-usuario-M1S1](https://github.com/nastex123/repositorio/tree/Historia-de-usuario-M1S1)

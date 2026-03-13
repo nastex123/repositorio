@@ -1,0 +1,11 @@
+My project is called Temperature Converter. It’s a simple Python program that asks the user 
+to type a temperature in Celsius. The input is converted into a number using float(), 
+so the program can perform calculations.
+
+Then, it applies the standard formula (Celsius * 9/5) + 32 to 
+find the equivalent in Fahrenheit. Finally, it prints both values clearly: 
+the Celsius entered and the Fahrenheit result.
+
+What makes this script useful is that it’s interactive. 
+Instead of hardcoding numbers, the user can enter any value, and the program instantly provides the conversion. 
+In just a few lines of code, we automate a real-world calculation and show how Python handles input, variables, and arithmetic.

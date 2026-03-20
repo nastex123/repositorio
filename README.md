@@ -8,6 +8,12 @@ El programa utiliza estructuras fundamentales como listas, diccionarios, condici
 
 ---
 
+## Repositorio
+
+link directo: https://github.com/nastex123/repositorio/tree/Historia2
+
+---
+
 ## Objetivo
 
 Gestionar múltiples productos en un inventario utilizando un menú interactivo, validando los datos de entrada y calculando estadísticas básicas de forma eficiente.

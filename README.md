@@ -27,12 +27,9 @@ El sistema está diseñado para trabajar completamente en consola, utilizando es
 - Fusión o sobrescritura de datos al importar
 
 ## Estructura del Proyecto
-
-
 ├── app.py # Archivo principal (menú y control del sistema)
 ├── servicios.py # Lógica del inventario (CRUD y estadísticas)
 ├── archivos.py # Manejo de archivos CSV
-
 
 ## Estructura de Datos
 
@@ -44,13 +41,12 @@ El inventario se maneja como una lista de diccionarios con la siguiente estructu
     "precio": float,
     "cantidad": int
 }
-
-Cada producto representa un registro dentro del inventario.
-
+```
 Uso del Sistema
-Ejecutar el archivo principal:
+1. Ejecutar el archivo principal:
 python app.py
-Seleccionar una opción del menú:
+
+2. Seleccionar una opción del menú:
 1: Agregar producto
 2: Mostrar inventario
 3: Buscar producto
@@ -60,15 +56,15 @@ Seleccionar una opción del menú:
 7: Guardar en CSV
 8: Cargar desde CSV
 9: Salir
-Persistencia con CSV
 
-El sistema permite guardar y cargar el inventario usando archivos CSV, un formato ampliamente utilizado para almacenar datos tabulares de forma simple y compatible entre aplicaciones .
+Persistencia con CSV
+El sistema permite guardar y cargar el inventario usando archivos CSV, un formato ampliamente utilizado para almacenar datos tabulares de forma simple y compatible entre aplicaciones
 
 Formato del archivo:
-
 nombre,precio,cantidad
 Producto1,1000,5
 Producto2,2000,3
+
 Manejo de Errores
 
 El sistema incluye:
